@@ -6,7 +6,7 @@ Contains intentional vulnerabilities for AppScan CodeSweep to detect.
 import sqlite3
 
 # Hardcoded credentials - CodeSweep should flag this
-DB_PASSWORD = "admin123546"
+DB_PASSWORD = "admin1235kjhop46"
 API_KEY = "sk-1234567890abcdef"
 
 def get_user(username):
